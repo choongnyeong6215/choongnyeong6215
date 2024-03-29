@@ -1,10 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=E84545&text=Hello,%20I'm%20Choongnyeong&animation=fadeIn&%20&height=300&&ontSize=70&fontColor=EEEEEE&fontAlign=50)
-
-<br>
-<br>
-<br>
-
 <div align=center>
+
+![header](https://capsule-render.vercel.app/api?type=soft&color=E84545&text=Hello,%20I'm%20Choongnyeong&animation=fadeIn&%20&height=300&section=header&fontSize=70&fontColor=EEEEEE&fontAlign=50)
+
+<br>
+<br>
+<br>
 
 # About me
 
@@ -40,6 +40,7 @@ Be a Frontend Developer 🥐
 </figure>
 
 <br>
+<br>
 
 ### Framework & Library
 
@@ -50,6 +51,7 @@ Be a Frontend Developer 🥐
 <img src="https://img.shields.io/badge/React Hook Form-EC5990?style=for-the-badge&logo=React Hook Form&logoColor=white">
 </figure>
 
+<br>
 <br>
 
 ### State Management
@@ -62,6 +64,7 @@ style=for-the-badge&logo=Redux&logoColor=white">
 </figure>
 
 <br>
+<br>
 
 ### Style
 
@@ -71,6 +74,7 @@ style=for-the-badge&logo=Redux&logoColor=white">
 <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=Framer&logoColor=white">
 </figure>
 
+<br>
 <br>
 
 ### Cooperation
