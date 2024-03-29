@@ -57,8 +57,7 @@ Be a Frontend Developer 🥐
 
 <figure>
 <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=Recoil&logoColor=white">
-<img src="https://img.shields.io/badge/Redux-764ABC?
-style=for-the-badge&logo=Redux&logoColor=white">
+<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white">
 <img src="https://img.shields.io/badge/React Query-FF4154?style=for-the-badge&logo=React Query&logoColor=white">
 </figure>
 
